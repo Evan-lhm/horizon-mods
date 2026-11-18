@@ -40,7 +40,7 @@ source = "https://github.com/Evan-lhm/vivid-horizon-raytracing"
 icon = "icons/vivid_horizon_raytracing.png"
 categories = ["path-tracing", "semi-realistic", "atmosphere"]
 tags = ["shaders", "ray-tracing", "global-illumination", "water", "sky", "clouds", "vibrant", "beta"]
-screenshots = ["screenshots/vivid_horizon_raytracing/1.jpg", "screenshots/vivid_horizon_raytracing/2.jpg", "screenshots/vivid_horizon_raytracing/3.jpg"]
+screenshots = ["screenshots/vivid_horizon_raytracing/1.jpg", "screenshots/vivid_horizon_raytracing/2.jpg", "screenshots/vivid_horizon_raytracing/3.jpg", "screenshots/vivid_horizon_raytracing/4.jpg"]
 
 [[versions]]
 version = "0.9.0"
